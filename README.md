@@ -1,6 +1,7 @@
 # MPC
-Design MIMO Predictive functional control in the form of PI-PD controller
-Abstract:
+# Design MIMO Predictive functional control in the form of PI-PD controller
+
+# Abstract:
 
 Consisting of a wide range of control methods, Predictive Control explicitly uses the process model to obtain control signals and minimize the target function.
 The combination of predictive control and conventional controllers can cause significant increases in the efficiencies of these controllers.
@@ -11,7 +12,7 @@ Keywords: Predictive functional control, PI-PD controller, two input-two output 
 
 
 
-Program guide:
+# Program guide:
 
 •	The ENMSSPID and ENMSSPID-mismatch programs are written to compare methods PID and PI-PD.
 •	By running the program ENMSSPIPD, the results for this method will be displayed.
