@@ -20,5 +20,5 @@ By running the program ENMSSPIPD, the results for this method will be displayed.
 By running the program ENMSSPIPD-mismatch, the results for this method will be displayed in the presence of uncertainty.
 By running the program NMSSPIPD, the results for this method will be displayed.
 By running the program NMSSPIPD-mismatch, the results for this method will be displayed in the presence of uncertainty.
-%}
+}%
 
