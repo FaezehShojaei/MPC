@@ -14,10 +14,10 @@ Keywords: Predictive functional control, PI-PD controller, two input-two output 
 
 ## Program guide:
 
-### -The ENMSSPID and ENMSSPID-mismatch programs are written to compare methods PID and PI-PD.
-### -By running the program ENMSSPIPD, the results for this method will be displayed.
-### -By running the program ENMSSPIPD-mismatch, the results for this method will be displayed in the presence of uncertainty.
-### -By running the program NMSSPIPD, the results for this method will be displayed.
-### -By running the program NMSSPIPD-mismatch, the results for this method will be displayed in the presence of uncertainty.
+#### -The ENMSSPID and ENMSSPID-mismatch programs are written to compare methods PID and PI-PD.
+#### -By running the program ENMSSPIPD, the results for this method will be displayed.
+#### -By running the program ENMSSPIPD-mismatch, the results for this method will be displayed in the presence of uncertainty.
+#### -By running the program NMSSPIPD, the results for this method will be displayed.
+#### -By running the program NMSSPIPD-mismatch, the results for this method will be displayed in the presence of uncertainty.
 
 
